@@ -1,6 +1,6 @@
-# this is an H1 header
-## this is an H2 header
-### this is an H3 header
-#### this is an H4 header
-##### this is an H5 header
-###### this is an H6 header
+# Wildcat "D" New Hampshire 
+## Start of a Winter traverse
+### Wildcat - Carter - Moriah
+
+
+![wildcat-d-summit](https://github.com/user-attachments/assets/c301a526-242e-4289-af24-ca18a239c51c)
