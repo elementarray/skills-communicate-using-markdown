@@ -4,3 +4,7 @@
 
 
 ![wildcat-d-summit](https://github.com/user-attachments/assets/c301a526-242e-4289-af24-ca18a239c51c)
+
+``` javascript
+const MyComponent = () => {}
+```
